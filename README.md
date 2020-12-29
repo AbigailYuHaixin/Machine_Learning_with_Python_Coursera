@@ -8,7 +8,15 @@ Week 1: Introduction to Machine Learning
 * Python for Machine Learning
 * Supervised vs Unsupervised
 
-Week 2
+Week 2: Regression
+1. Linear Regression
+* Introduction to Regression
+* Simple Linear Regression
+* Model Evaluation in Regression Models
+* Evaluation Metrics in Regression Models
+* Multiple Linear Regression
+2. Non-Linear Regression
+* Non-Linear Regression
 
 Week 3
 
