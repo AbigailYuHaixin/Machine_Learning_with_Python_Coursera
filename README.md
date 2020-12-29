@@ -3,6 +3,7 @@ Welcome to Machine Learning with Python! This is part of the IBM Data Science Pr
 
 Week 1: Introduction to Machine Learning
 * What is Machine Leaning?
++ Welcome
 
 Week 2
 
