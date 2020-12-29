@@ -2,8 +2,11 @@
 Welcome to Machine Learning with Python! This is part of the IBM Data Science Professional Certificate. All labs are included!
 
 Week 1: Introduction to Machine Learning
-* What is Machine Leaning?
-- Welcome
+1. What is Machine Leaning?
+* Welcome
+* Introduction to Machine Learning
+* Python for Machine Learning
+* Supervised vs Unsupervised
 
 Week 2
 
